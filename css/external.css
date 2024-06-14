@@ -1,0 +1,26 @@
+.html{
+    scroll-behavior: smooth;
+}
+.container-fluid{
+    margin-top: 10px;
+    border-style: solid;
+    padding-bottom: 5px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+    border-bottom-color:rgba(162, 57, 57, 0.698);
+
+}
+.img-fluid{
+    border-radius: 4px;
+}
+.img-fluid:hover{
+    opacity: 0.8;
+}
+a:hover{
+    color:rgb(18, 18, 125);
+}
+audio::-webkit-media-controls-panel{
+    background: -webkit-linear-gradient( orange,white,green);
+}
